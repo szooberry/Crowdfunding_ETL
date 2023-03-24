@@ -4,7 +4,7 @@ For the ETL mini project, we worked as a team of three to practice building an E
 
 We did this project in five parts:
 
-1. Category DataFrame is Created
+## 1. Category DataFrame is Created
 
 The DataFrame contains a "category_id" column that has entries going sequentially from "cat1" to "catn", where n is the number of unique categories 
 
@@ -12,7 +12,7 @@ The DataFrame has a "category" column that contains only the category titles
 
 The category DataFrame is exported as category.csv 
 
-2. Subcategory DataFrame is Created 
+## 2. Subcategory DataFrame is Created 
 
 The DataFrame contains a "subcategory_id" column that has entries going sequentially from "subcat1" to "subcatn", where n is the number of unique subcategories 
 
@@ -20,7 +20,7 @@ The DataFrame contains a "subcategory" column that contains only the subcategory
 
 The subcategory DataFrame is exported as category.csv 
 
-3. Campaign DataFrame is Created 
+## 3. Campaign DataFrame is Created 
 
 The DataFrame has the following columns: 
 "cf_id" column
@@ -53,7 +53,7 @@ The DataFrame has the following columns:
 
 The campaign DataFrame is exported as campaign.csv
 
-4. Contacts DataFrame is Created 
+## 4. Contacts DataFrame is Created 
 
 The DataFrame has the following columns: 
 
@@ -69,7 +69,7 @@ The contacts DataFrame is exported as contacts.csv
 
 A Crowdfunding Database is Created 
 
-5. A database schema labeled, crowdfunding_db_schema.sql is created
+## 5. A database schema labeled, crowdfunding_db_schema.sql is created
 
 A crowdfunding_db is created using the crowdfunding_db_schema.sql file 
 
